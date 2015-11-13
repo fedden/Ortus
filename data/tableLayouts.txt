@@ -1,0 +1,13 @@
+workout:
+workout,exercise,timed,sets,repsORamountOfTime,(maxRepsORmaxSecs)perSet
+
+syllabus:
+subject,module,finished,link
+
+state:
+currentWorkout
+
+quickJob:
+
+alarm:
+routine,hour,minute,allowedTime
